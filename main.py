@@ -3,8 +3,8 @@ import threading
 import sys
 
 #############################
-# Author by Ibrahim Alaybeyi ##
-# BY GPL ##
+###
+# GPL ##
 # 2016#
 #############################
 
