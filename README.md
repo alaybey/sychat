@@ -1,2 +1,2 @@
 
- I created that app at 2016 but i didn't add to my github repos. 
+ I created that app at 2016 but i wasn't add to my github repos. 
